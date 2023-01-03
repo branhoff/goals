@@ -3,12 +3,25 @@
         "steps": 9069,
         "pushups": 30,
         "hops": 60,
-        "met_eating_window": true,
+        "eating_window_min": 450,
         "lines_of_code": 0,
         "total_applications": 0,
         "total_media_min": 32,
         "cleaning_completed": true,
-        "%_book_read": 0.0,
+        "%_book_read": 0.06,
+        "meaningful_gaming_min": 0
+    },
+
+    "2": {
+        "steps": 10108,
+        "pushups": 30,
+        "hops": 60,
+        "eating_window_min": 540,
+        "lines_of_code": 0,
+        "total_applications": 0,
+        "total_media_min": 44,
+        "cleaning_completed": true,
+        "%_book_read": 0.16,
         "meaningful_gaming_min": 0
     }
 }

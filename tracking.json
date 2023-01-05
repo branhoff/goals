@@ -36,5 +36,20 @@
         "cleaning_completed": true,
         "%_book_read": 21 ,
         "meaningful_gaming_min": 0
+    },
+
+    "4": {
+        "steps": 9816,
+        "pushups": 30,
+        "hops": 60,
+        "eating_window_min": 449,
+        "lines_of_code": 0,
+        "total_applications": 0,
+        "total_media_min": 45,
+        "cleaning_completed": true,
+        "%_book_read": 26 ,
+        "meaningful_gaming_min": 0
     }
+
+
 }
